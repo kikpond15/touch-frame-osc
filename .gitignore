@@ -7,7 +7,8 @@ obj/
 
 #file
 icon.rc
-testMultiTouch.vcxproj
-testMultiTouch.vcxproj.user
-testMultiTouch.sln
-testMultiTouch.vcxproj.filters
+*.zip
+*.vcxproj
+*.vcxproj.user
+*.sln
+*.vcxproj.filters
